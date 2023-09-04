@@ -1,0 +1,8 @@
+⁡⁢⁢⁢𝗔͟𝗡͟𝗦͟𝗪͟𝗘͟𝗥⁡ - The purpose of using comments in html that we can remove the code that we don't want to render 
+on our webpage and to provide information of our code to others who are working with us , or analsing our
+code.
+
+
+To use comment we just have to use two forward slash before our code and it will be commented.
+
+Example : ⁡⁢⁣⁢//𝘛𝘩𝘪𝘴 𝘪𝘴 𝘤𝘰𝘮𝘮𝘦𝘯𝘵𝘦𝘥 𝘤𝘰𝘥𝘦⁡

@@ -1,0 +1,2 @@
+⁡⁢⁢⁢𝗔𝗡𝗦𝗪𝗘𝗥⁡ - Doctype declaration in html is used to tell the browser the current version of html and
+browser can render it accordingly.
